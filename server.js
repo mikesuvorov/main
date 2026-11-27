@@ -12,6 +12,8 @@ const HOST = '0.0.0.0';
 const HTML_PAGES = new Set([
   'index.html',
   'energetik.html',
+  'universitetskiy.html',
+  'orion.html',
   'politika.html',
   'roditelyam.html',
 ]);
